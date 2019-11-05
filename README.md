@@ -6,32 +6,31 @@ BAProgressHUD is a progress animation that easy to use displaying on progress.
 
 First Style             Second Style
 
-# Requirements
+## Requirements
 
-• iOS 10.3+
+* iOS 10.3+
 
-# Installation
+## Installation
 
 ```
 pod 'BAProgressHUD'
-
 ```
 
-# Usage
+## Usage
 
-import BAProgressHUD
+Import BAProgressHUD
 
-```
+```swift
 import BAProgressHUD
 ```
 Show the progress HUD
-```
+```swift
 let baProgressHUD = BAProgressHUD()
 baProgressHUD.show(in: self.view)
 ```
 
 You can use second style like that
-```
+```swift
 let baProgressHUD = BAProgressHUD(style: .second)
 baProgressHUD.show(in: self.view)
 ```
