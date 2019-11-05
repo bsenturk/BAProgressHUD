@@ -2,9 +2,9 @@
 
 BAProgressHUD is a progress animation that easy to use displaying on progress.
 
-![](gif/firstStyle.gif) ![](gif/secondStyle.gif) 
+![](gif/firstStyle.gif)   ![](gif/secondStyle.gif) 
 
-First Style             Second Style
+First Style               Second Style
 
 ## Requirements
 
